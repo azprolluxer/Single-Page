@@ -96,6 +96,15 @@ nav a:hover{
 nav a#pull {
 	display: none;
 }
+.map
+{
+	margin: 35px 0px;
+}
+.map iframe {
+    width: 100%;
+    min-height: 350px;
+    border: none;
+}
 /*Styles for screen 600px and lower*/
 @media screen and (max-width: 768px) {
 	nav { 
