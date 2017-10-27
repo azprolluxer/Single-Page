@@ -54,7 +54,7 @@ body a{
 }
 .top-nav ul li.active a,
 .top-nav ul li a:hover{
-	color:#EE2F1B;
+	color:#ff9800;
 }
 .logo a{
 	display:block;
@@ -196,7 +196,7 @@ nav a#pull {
 .banner-info span{
 	width:15%;
 	height:1px;
-	background:#35C2F8;
+	background:#ff9800;
 	display:inline-block;
 }
 .banner-info p{
@@ -221,7 +221,7 @@ nav a#pull {
 .service-head span{
 	width:15%;
 	height:1px;
-	background:#35C2F8;
+	background:#ff9800;
 	display:inline-block;
 }
 .service-grid span{
@@ -341,7 +341,7 @@ a.leran-more{
 	-moz-border-radius: 3em;
 	-ms-border-radius: 3em;
 	-o-border-radius: 3em;
-	border:1px solid #CBEEFA;
+	border:1px solid #ff9800;
 }
 a.leran-more:hover{
 	background:#222222;
@@ -436,7 +436,7 @@ a.leran-more:hover{
 	display: none;
 	position: absolute;
 	top: 0;
-	background: rgba(153, 153, 153, 0.8);
+	background: rgba(255, 152, 0, 0.6);
 	text-align: center;
 	padding: 6em 2em 0em 2em;
 	bottom: 0;
@@ -821,7 +821,7 @@ a.leran-more:hover{
 	min-height:150px;
 }
 .contact-right input[type="submit"]{
-	background:#35C2F8;
+	background:#ff9800;
 	padding:0.9em 1.5em;
 	color:#FFF;
 	text-transform:uppercase;
@@ -835,7 +835,8 @@ a.leran-more:hover{
 	-ms-transition:0.5s all;
 }
 .contact-right input[type="submit"]:hover{
-	background:#EE2F1B;
+	background:#ffffff;
+	color: #ff9800;
 }
 /*---- copy-right -----*/
 .copy-right p{
@@ -848,7 +849,7 @@ a.leran-more:hover{
 	margin-top:5em;
 }
 .copy-right p a{
-	color:#35C2F8;
+	color:#ff9800;
 }
 .copy-right p a:hover{
 	color:#FFF;
