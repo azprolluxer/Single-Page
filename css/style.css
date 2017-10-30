@@ -619,10 +619,10 @@ a.leran-more:hover{
 	line-height: 1.44em;
 }
 .tm-head-grid img{
-	border-radius: 30em;
+	/*border-radius: 30em;
 	-webkit-border-radius: 30em;
 	-moz-border-radius: 30em;
-	-o-border-radius: 30em;
+	-o-border-radius: 30em;*/
 }
 .tm-head-grid {
 	width: 30.33%;
